@@ -25,8 +25,8 @@ SECRET_KEY = '$1s=#8&*pc99+e+g7=7c+7#(+o5*l4=mu6ve0=2qeujm-@h40h'
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-DEBUG = True
-#DEBUG = False
+#DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
